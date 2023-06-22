@@ -4,7 +4,7 @@
 
 ***Simple weather app build as a part of [The Ultimate JavaScript Course for Beginners](https://www.cleverprogrammer.com/) made by [Rafeh Qazi](https://github.com/CleverProgrammer).***
 </br>
-***Aplication uses [Yahoo Weather API](https://rapidapi.com/apishub/api/yahoo-weather5/).***
+***Aplication uses [Yahoo Weather API](https://rapidapi.com/apishub/api/yahoo-weather5/). It was created in order to learn the basics of using external APIs in a project.***
  
 ## ⚒️ Built with:
 - HTML 5
