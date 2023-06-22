@@ -13,5 +13,6 @@
 - Bootstrap 4.3.1
 
 ## 📷 Screenshots:
+<p align="center">
 <img src="https://i.imgur.com/6ItUHPf.png" height="60%" width="60%" alt="Simple weather app"/>
 <br />
